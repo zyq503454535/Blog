@@ -10,11 +10,7 @@ underscore 系列 8 篇已完结。
 
 ES6 系列正在发布中……
 
-## 专栏
 
-* [掘金主页](https://juejin.im/user/58e4b9b261ff4b006b3227f4)
-* [segmentfault主页](https://segmentfault.com/u/yayu/articles)
-* 新开了 [知乎专栏](https://zhuanlan.zhihu.com/c_1042806379215601664)，欢迎关注
 
 ## 深入系列目录
 
